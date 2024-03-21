@@ -6,4 +6,9 @@ public class scanner {
         throw new UnsupportedOperationException("Unimplemented method 'close'");
     }
 
+    public static double nextDouble() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'nextDouble'");
+    }
+
 }
