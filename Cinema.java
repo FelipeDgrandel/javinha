@@ -11,7 +11,7 @@ public class Cinema {
         if (idade < 2);{
           System.out.println("Valor: Gratis!");
 
-         }  else if (idade <18|| idade>= 65) {
+         }  else if (idade <18 || idade>= 65) {
           System.out.println("valor" + valorIngresso / 2);
 
          } else {
