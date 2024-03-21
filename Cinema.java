@@ -8,15 +8,12 @@ public class Cinema {
     double valorIngresso = leitor.nextDouble();
     System.out.println("Digite a sua idade");
     int idade = leitor.nextInt();
-        if (idade < 2);{
+        if (idade < 2){
           System.out.println("Valor: Gratis!");
-
          }  else if (idade <18 || idade>= 65) {
-          System.out.println("valor" + valorIngresso / 2);
-
+          System.out.println("valor" + (valorIngresso / 2));
          } else {
           System.out.println("Valor: "+ valorIngresso);
-
          }
          leitor.close();
   }  
