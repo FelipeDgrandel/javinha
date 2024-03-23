@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aumento2",
+            "request": "launch",
+            "mainClass": "Aumento2",
+            "projectName": "javinha_292c5a3b"
+        },
+        {
+            "type": "java",
+            "name": "Laco",
+            "request": "launch",
+            "mainClass": "Laco",
+            "projectName": "javinha_292c5a3b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
