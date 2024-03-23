@@ -15,7 +15,7 @@ public class RaizQuadrado {
       }
 
         //Fechando o Scanner
-        scanner.close();
+        sc.close();
 
 
    } 
