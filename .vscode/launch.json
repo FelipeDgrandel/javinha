@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cinema2",
+            "request": "launch",
+            "mainClass": "Cinema2",
+            "projectName": "javinha_292c5a3b"
+        },
+        {
+            "type": "java",
             "name": "Aumento2",
             "request": "launch",
             "mainClass": "Aumento2",
